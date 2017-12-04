@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+
+    <string name="ListView">ListView</string>
+    <string name="GridtView">GridView</string>
+</resources>
